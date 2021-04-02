@@ -1,0 +1,1 @@
+<view>详情页<text>唱歌跳舞打篮球</text><text selectable="{{true}}">唱歌跳舞打篮球</text><view><text>唱歌跳舞打篮球</text><text selectable="{{true}}" space="ensp">唱歌     跳舞打篮球</text></view><view><text decode="false">&</text></view><view class="box" hover-class="box-active">我是一个大盒子</view></view>
